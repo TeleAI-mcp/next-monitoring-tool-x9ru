@@ -1,2 +1,3 @@
-# next-monitoring-tool-x9ru
-Automated issue comment bot repository
+# Next Monitoring Tool X9Ru
+
+Automated issue comment bot repository.
